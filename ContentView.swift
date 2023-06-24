@@ -50,7 +50,7 @@ struct ContentView: View {
             }label: {
                 Text("Reset")
                     .padding()
-                    .background(.purple)
+                    .background(.blue)
                     .foregroundColor(.white)
                     .cornerRadius(10)
             }
